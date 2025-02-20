@@ -1,0 +1,2 @@
+Per iniziare  ho dichiarato la lista ordini, dove finiranno tutti gli ordini che l’utente aggiunge e dalla quale dipendono tutte le altre funzioni.
+Successivamente  ho fatto il punto 1 che consiste nel creare un nuovo ordine ed aggiungerlo alla lista. dopo averlo aggiunto alla lista semplicemente la funzione mostra tutta la lista per confermare che l’ordine è stato aggiunto.
