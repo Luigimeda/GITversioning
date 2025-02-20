@@ -13,13 +13,4 @@ La classe `Ordini` possiede un metodo costruttore (`__init__`), il quale inizial
 - `prezzo_totale`: Memorizza il costo complessivo dell'ordine.
 
 
-### Esempio di utilizzo
-```python
-# Creazione di un oggetto Ordini
-ordine1 = Ordini("Mario Rossi", "Laptop", 2, 2500.00)
 
-# Accesso agli attributi dell'ordine
-print("Cliente:", ordine1.nome_cliente)
-print("Prodotto acquistato:", ordine1.prodotto_acquistato)
-print("Quantità:", ordine1.quantità)
-print("Prezzo totale:", ordine1.prezzo_totale)
