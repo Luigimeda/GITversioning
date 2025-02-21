@@ -12,5 +12,7 @@ La classe `Ordini` possiede un metodo costruttore (`__init__`), il quale inizial
 - `quantità`: Indica il numero di unità acquistate del prodotto.
 - `prezzo_totale`: Memorizza il costo complessivo dell'ordine.
 
+## Metodo `__str__()` nella classe `Ordini`
+__str__() è un metodo speciale in Python che viene chiamato automaticamente quando si tenta di ottenere una rappresentazione in formato stringa di un oggetto della classe. Il metodo usa una f-string (f"") per costruire una stringa che include i valori degli attributi dell'oggetto (self.nome_cliente, self.prodotto_acquistato, self.quantità, self.prezzo_totale).
 
 
