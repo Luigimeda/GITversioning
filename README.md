@@ -14,3 +14,9 @@ In particolare, i punti richiesti sono i seguenti:
 2. Mastroeni: sviluppo dei punti 2 e 3.
 3. Pieragostino: sviluppo punto 4 e creazione classe ordini. 
 4. Meda: creazione classe e-commerce e sviluppo del file eseguibile.
+
+
+
+**COME ESEGUIRE IL PROGRAMMA**
+
+Per eseguire il programma è necessario importare nell'IDE i file e-commerce.py e sistema.py e successivamente sarà sufficiente eseguire il file SISTEMA.PY.
